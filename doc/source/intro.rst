@@ -62,6 +62,7 @@ will typically need to display some pre-formatted text.  This is usually
 provided by a :py:obj:`.Renderer`.  For example:
 
 .. code-block:: python
+
     from asciimatics.effects import Cycle, Stars
     from asciimatics.renderers import FigletText
     from asciimatics.scene import Scene
